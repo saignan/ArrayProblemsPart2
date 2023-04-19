@@ -27,7 +27,7 @@
             switch (input)
             {
                 case 1:
-                    Console.WriteLine("hai");
+                    ArrayDeclaration.ArrDeclaration();
                     break;
             }
         }
